@@ -1,4 +1,4 @@
-Howdy, dear visitor!
+Ahoy there, me heartie! Ye've stumbled upon me treasure chest. If ye seek adventure in the world of bits and bytes, set sail through me repositories and plunder the riches within! ⚓️
 
 <!--
 **konradkubczyk/konradkubczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
